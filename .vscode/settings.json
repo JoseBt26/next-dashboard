@@ -1,0 +1,11 @@
+{
+    "editor.bracketPairColorization.enabled": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": false,
+    "editor.guides.bracketPairs": true,
+    "breadcrumbs.enabled": false,
+    "notebook.stickyScroll.enabled": false,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorStyle": "line-thin",
+    "editor.cursorSurroundingLinesStyle": "default"
+}
